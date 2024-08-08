@@ -396,7 +396,6 @@ ol {
   align-items: flex-start;
   justify-content: flex-start;
   flex-direction: column;
-  gap: 16px;
 }
 .foottext-soc-media {
   margin-bottom: 16px;
